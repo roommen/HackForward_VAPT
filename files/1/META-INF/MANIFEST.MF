@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.0
+
+Name: res/layout/getagents.xml
+SHA1-Digest: FX/WH3TfRjPY6JWBk00RR3uYukg=
+
+Name: res/layout/remoteattack.xml
+SHA1-Digest: b8hsMCZ/fsV7Luob+TVd2JV5CeY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: AdloFxpQ5QlDYdw/gTWD2++G5Ds=
+
+Name: res/layout/main.xml
+SHA1-Digest: JxcM4irpDAhavelwXHby+m8dBzY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: xztIIxAd5/rhG9QZR9Id5Lzid+k=
+
+Name: res/layout/fuctionlist.xml
+SHA1-Digest: eBtFZ07O0ZtM4nHuhGgsy0lxlS8=
+
+Name: res/layout/data.xml
+SHA1-Digest: eBtFZ07O0ZtM4nHuhGgsy0lxlS8=
+
+Name: res/layout/nfc.xml
+SHA1-Digest: 89ncOTHfrF+NnZuu0pXPDac4vSE=
+
+Name: res/layout/commands.xml
+SHA1-Digest: jG6fBqQnPQ+3VZXuuJuafUzeWf8=
+
+Name: res/drawable-xhdpi-v4/shevirah.png
+SHA1-Digest: k2L7k5Nf8DX+/KsSeZzDvhlzi9A=
+
+Name: resources.arsc
+SHA1-Digest: y6eYdkDNPGuzi1F3FS3ucPp9iSo=
+
+Name: res/layout/getdata.xml
+SHA1-Digest: NHjnGnSVSQMjYfCGX47luILQJQA=
+
+Name: classes.dex
+SHA1-Digest: +nsu4nmxPc258MQPmjgNcGaNTi4=
+
+Name: res/layout/socialattack.xml
+SHA1-Digest: rO9umbcsBaecmxFa5dtBFm5/dbg=
+
+Name: res/drawable-xhdpi-v4/bulbicon.png
+SHA1-Digest: ZDyA8GNOxptzQ9kIVwtylr7xfpY=
+
+Name: res/layout/bluetooth.xml
+SHA1-Digest: ftJ2KFNuBAPJSTA6AhuX0sFYajY=
+
