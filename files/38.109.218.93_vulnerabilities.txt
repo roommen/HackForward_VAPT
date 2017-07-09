@@ -1,0 +1,48 @@
+1. Remote User List Disclosure Using NetBIOS (CVE-2000-1200)
+
+2. Null Session/Password NetBIOS Access (CVE-1999-0519)
+
+3. WINS Domain Controller Spoofing Vulnerability - Zero Day (CVE-1999-1593)
+
+4. NetBIOS Name Conflict Vulnerability (CVE-2000-0673)
+
+5. NetBIOS Release Vulnerability (CVE-2000-0673)
+
+6. ICMP Timestamp Request (CVE-1999-0524)
+
+7. TCP Sequence Number Approximation Based Denial of Service (    CVE-2004-0230 )
+
+8. NetBIOS Name Accessible (can be disabled if not used)
+
+9. NetBIOS Shared Folder List Available (misconfiguration)	
+
+10. Following HTTP Security Header Not Detected:
+X-Frame-Options
+X-XSS-Protection
+X-Content-Type-Options
+X-Frame-Options
+X-XSS-Protection
+	
+11. Following web directories were listable:
+/images/
+/common/
+/css/
+/source/
+/test/
+/content/
+/js/
+
+12. Web Server Uses Plain Text Basic Authentication:
+GET / HTTP/1.0
+Host: private-tunel.wehostservers.ru:9090
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.1.4322)
+
+HTTP/1.0 401 Unauthorized
+Server: Transmission
+WWW-Authenticate: Basic realm="Transmission"
+Connection: keep-alive
+Content-Length: 43
+Content-Type: text/html; charset=ISO-8859-1
+
+<h1>401: Unauthorized</h1>Unauthorized UserService Name: HTTP on TCP port 9090.
+HTTP Service Excepting Basic Auth Credentials Detected
