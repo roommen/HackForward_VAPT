@@ -2,7 +2,7 @@
 
 2. Null Session/Password NetBIOS Access (CVE-1999-0519)
 
-3. WINS Domain Controller Spoofing Vulnerability - Zero Day (CVE-1999-1593)
+3. WINS Domain Controller Spoofing Vulnerability (CVE-1999-1593)
 
 4. NetBIOS Name Conflict Vulnerability (CVE-2000-0673)
 
@@ -10,7 +10,7 @@
 
 6. ICMP Timestamp Request (CVE-1999-0524)
 
-7. TCP Sequence Number Approximation Based Denial of Service (    CVE-2004-0230 )
+7. TCP Sequence Number Approximation Based Denial of Service (CVE-2004-0230 )
 
 8. NetBIOS Name Accessible (can be disabled if not used)
 

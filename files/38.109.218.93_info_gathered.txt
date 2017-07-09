@@ -1,0 +1,36 @@
+1. Operating System detected:
+Ubuntu / Fedora / Tiny Core Linux / Linux 3.x
+Windows 7
+Windows 2008
+
+2. Hostname for 38.109.218.93 detected as private-tunel.wehostservers.ru and lfc.0x10.info
+
+3. Webserver found to be nginx/1.4.6 on Ubuntu
+
+4. List of Web directories:
+/en-US/
+/en-US/index.php/
+/en-US/admin/
+/en-US/help/
+/en-US/install/
+/en-US/static
+
+/doc/
+/images/
+/common/
+/css/
+/source/
+/test/
+/content/
+/js/
+/demo/
+/css/
+/images/
+/js/redmond/
+/0/
+/includes/
+/includes/js/
+/includes/js/helpers/
+/source/
+/icons/
+/common/

@@ -1,0 +1,5 @@
+1. Samba Writable Share Remote Code Execution Vulnerability (CVE-2017-7494)
+
+2. Multiple vulnerabilities in Apache HTTP Server (CVE-2014-8109, CVE-2014-3583, CVE-2014-3581, CVE-2013-5704, CVE-2014-0231, CVE-2014-3523, CVE-2014-0117, CVE-2014-0118, CVE-2013-6438, CVE-2014-0098, CVE-2015-0228, CVE-2015-0253, CVE-2015-3183, CVE-2015-3185, CVE-2016-1546)
+
+3. OpenSSH Xauth Command Injection Vulnerability (CVE-2016-3115)
