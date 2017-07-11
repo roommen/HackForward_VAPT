@@ -1,1 +1,2 @@
-# My submission to the HackForward competition held on HackerEarth for the Vulnerability Analysis and Penetration Testing track
+HackerEarth competition (conducted by Accenture):
+Initial online round submission for the Vulnerability Analysis and Penetration Testing (VA/PT) track
