@@ -1,0 +1,14 @@
+Google Dorking Cheatsheet:
+*************************
+
+1. allintext - searches for occurence all keywords given
+2. intext - searches for the occurence of keywords all at once or one at a time
+3. inurl - searches for a URL matching one of the keywords
+4. allinurl - searches for a URL matching all the keywords in the query
+5. intitle - searches for occurence of keywords in URL all or one
+6. allintitle - searches for occurence of keywords all at a time
+7. site - specifically searcg that particular site and lists all the results for that site
+8. filetype - searches for a particular filetype mentioned in the query
+9. link - searches for external links to pages
+10. numrange - used to locate specific numbers in your searched
+11. daterange - used to search within a particular date ranage
